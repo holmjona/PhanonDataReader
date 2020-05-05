@@ -27,8 +27,11 @@ $(document).ready(function () {
                                 var link = $("<a>");
                                 link.text(lessName);
                                 link.attr("href", makeLink(92, lesson.id, lesson.user_id));
-                                link.attr("target", "_new");
-                                var tdID = $("<td>").append(content,link);
+                                link.attr("target", "_blank");
+                                var tdID = $("<td>").append(content, link);
+                                tdID.addClass("project");
+                                if (!lesson.started) tdID.addClass("notstarted");
+                                if (lesson.completed) tdID.addClass("completed");
                                 tr.append(tdID);
                             }
                         }
