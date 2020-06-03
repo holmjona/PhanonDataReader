@@ -1,0 +1,45 @@
+﻿@model LessonHolder
+@{
+    ViewData["Title"] = "Exercises";
+}
+
+@if (Model == null) {
+    <h1>Exercises</h1>
+    <p>Enter the data in JSON format directly from the Call in Phanon.</p>
+    <form class="parser" asp-action="FormattedExercises" method="post">
+        @*<input type="text" id="txtUrl" value="http://phanon.herokuapp.com/api/lessons/941?context_id=115" />
+            <button id="btnReadExercises">Parse Exercises</button>*@
+        <textarea name="json">
+
+</textarea>
+        <input type="submit" value="Parse Exercises" />
+    </form>
+} else {
+    <h1>@Model.Lesson.Title</h1>
+    <h2>Exercises</h2>
+    @Model.ID
+
+    Model.ExtraLinesPerExercise = 9;
+    <div>
+        <a asp-action="Exercises">Enter another set of data.</a>
+    </div>
+<textarea cols=@Model.ColumnsNeeded rows=@Model.RowsNeeded id="output">
+@foreach (Exercise ex in Model.Exercises) {
+@Html.Raw("********************************************************************************\n")
+@Html.Raw("## Instructions\n")
+@ex.Instructions
+@Html.Raw("\n\n")
+@Html.Raw("## Code\n")
+@Html.Raw("```python\n")
+@ex.Test_Code
+@Html.Raw("\n")
+@Html.Raw("```\n")
+@Html.Raw("\n")
+@Html.Raw("## Solution\n")
+@Html.Raw("```python\n")
+@ex.Solution_Code
+@Html.Raw("\n")
+@Html.Raw("```\n")
+}
+</textarea>
+}
