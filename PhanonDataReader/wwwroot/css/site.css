@@ -82,11 +82,11 @@ td.project {
 }
 
 td.notstarted {
-    background: #333;
+    background: #888;
 }
 
 td.completed {
-    background: #AFA;
+    background: #CFC;
 }
 
 .parser {
