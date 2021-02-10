@@ -1,0 +1,1279 @@
+{
+  "phanon_modules": [
+    {
+      "id": 213,
+      "module": {
+        "id": 213,
+        "created_at": "2020-01-09T22:33:07.470Z",
+        "updated_at": "2020-01-09T22:33:07.479Z",
+        "title": "Week 1 Exercises",
+        "completed": false,
+        "prerequisites": null,
+        "position": 0,
+        "course_id": 92,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 416,
+          "title": "Printing to the Screen",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 213,
+          "position": 0,
+          "published": null,
+          "created_at": "2020-01-09T22:33:07.585Z",
+          "updated_at": "2020-01-09T22:33:07.585Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 214,
+      "module": {
+        "id": 214,
+        "created_at": "2020-01-09T22:34:48.713Z",
+        "updated_at": "2020-01-09T22:34:48.748Z",
+        "title": "Week 1 Project",
+        "completed": false,
+        "prerequisites": null,
+        "position": 1,
+        "course_id": 92,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 417,
+          "title": "Facts About Me",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 214,
+          "position": 0,
+          "published": null,
+          "created_at": "2020-01-09T22:34:48.885Z",
+          "updated_at": "2020-01-09T22:34:48.885Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 215,
+      "module": {
+        "id": 215,
+        "created_at": "2020-01-09T22:46:19.644Z",
+        "updated_at": "2020-01-09T22:46:19.653Z",
+        "title": "Week 2 Exercises",
+        "completed": false,
+        "prerequisites": null,
+        "position": 2,
+        "course_id": 92,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 418,
+          "title": "Arithmetic Operators Precedence - Part 3",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 215,
+          "position": 4,
+          "published": null,
+          "created_at": "2020-01-09T22:46:19.766Z",
+          "updated_at": "2020-01-09T22:46:19.766Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 419,
+          "title": "Arithmetic Operators Precedence - Part 2",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 215,
+          "position": 3,
+          "published": null,
+          "created_at": "2020-01-09T22:46:19.844Z",
+          "updated_at": "2020-01-09T22:46:19.844Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 420,
+          "title": "Variables - Part 1",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 215,
+          "position": 0,
+          "published": null,
+          "created_at": "2020-01-09T22:46:19.850Z",
+          "updated_at": "2020-01-09T22:46:19.850Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 421,
+          "title": "Variables - Part 2",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 215,
+          "position": 1,
+          "published": null,
+          "created_at": "2020-01-09T22:46:19.852Z",
+          "updated_at": "2020-01-09T22:46:19.852Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 422,
+          "title": "Variable Types - Convert Between int and str",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 215,
+          "position": 6,
+          "published": null,
+          "created_at": "2020-01-09T22:46:19.857Z",
+          "updated_at": "2020-01-09T22:46:19.857Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 423,
+          "title": "Strings and String Concatenation",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 215,
+          "position": 5,
+          "published": null,
+          "created_at": "2020-01-09T22:46:19.870Z",
+          "updated_at": "2020-01-09T22:46:19.870Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 424,
+          "title": "Arithmetic Operators Precedence - Part 1",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 215,
+          "position": 2,
+          "published": null,
+          "created_at": "2020-01-09T22:46:19.882Z",
+          "updated_at": "2020-01-09T22:46:19.882Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 216,
+      "module": {
+        "id": 216,
+        "created_at": "2020-01-09T22:46:40.797Z",
+        "updated_at": "2020-01-09T22:46:40.805Z",
+        "title": "Week 2 Project",
+        "completed": false,
+        "prerequisites": null,
+        "position": 3,
+        "course_id": 92,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 425,
+          "title": "Part 0 - Mortgage Calculator",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 216,
+          "position": 0,
+          "published": null,
+          "created_at": "2020-01-09T22:46:40.925Z",
+          "updated_at": "2020-01-23T04:51:38.355Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": true
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 217,
+      "module": {
+        "id": 217,
+        "created_at": "2020-01-09T22:46:55.732Z",
+        "updated_at": "2020-01-09T22:46:55.740Z",
+        "title": "Week 3 Exercises",
+        "completed": false,
+        "prerequisites": null,
+        "position": 4,
+        "course_id": 92,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 426,
+          "title": "Turtle!",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 217,
+          "position": 0,
+          "published": null,
+          "created_at": "2020-01-09T22:46:55.865Z",
+          "updated_at": "2020-01-09T22:46:55.865Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 427,
+          "title": "Range",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 217,
+          "position": 1,
+          "published": null,
+          "created_at": "2020-01-09T22:46:55.878Z",
+          "updated_at": "2020-01-09T22:46:55.878Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 428,
+          "title": "For Loops Part 3 - Nested Loops!",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 217,
+          "position": 4,
+          "published": null,
+          "created_at": "2020-01-09T22:46:55.897Z",
+          "updated_at": "2020-01-09T22:46:55.897Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 429,
+          "title": "For Loops Part 2",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 217,
+          "position": 3,
+          "published": null,
+          "created_at": "2020-01-09T22:46:55.900Z",
+          "updated_at": "2020-01-09T22:46:55.900Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 430,
+          "title": "For Loops Part 1",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 217,
+          "position": 2,
+          "published": null,
+          "created_at": "2020-01-09T22:46:55.912Z",
+          "updated_at": "2020-01-09T22:46:55.912Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 218,
+      "module": {
+        "id": 218,
+        "created_at": "2020-01-09T22:47:23.681Z",
+        "updated_at": "2020-01-09T22:47:23.689Z",
+        "title": "Week 3 Project",
+        "completed": false,
+        "prerequisites": null,
+        "position": 5,
+        "course_id": 92,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 431,
+          "title": "Draw Your Own Shape",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 218,
+          "position": 0,
+          "published": null,
+          "created_at": "2020-01-09T22:47:23.806Z",
+          "updated_at": "2020-01-26T00:24:16.079Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": true
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 219,
+      "module": {
+        "id": 219,
+        "created_at": "2020-01-09T22:47:38.309Z",
+        "updated_at": "2020-01-09T22:47:38.317Z",
+        "title": "Week 4 Exercises",
+        "completed": false,
+        "prerequisites": null,
+        "position": 6,
+        "course_id": 92,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 432,
+          "title": "Useful Functions - abs, min, max, pow, and round",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 219,
+          "position": 0,
+          "published": null,
+          "created_at": "2020-01-09T22:47:38.448Z",
+          "updated_at": "2020-01-09T22:47:38.448Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 433,
+          "title": "Useful Functions - fabs, ceil, and floor",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 219,
+          "position": 1,
+          "published": null,
+          "created_at": "2020-01-09T22:47:38.460Z",
+          "updated_at": "2020-01-09T22:47:38.460Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 434,
+          "title": "Strings - Escaping Characters",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 219,
+          "position": 2,
+          "published": null,
+          "created_at": "2020-01-09T22:47:38.464Z",
+          "updated_at": "2020-01-09T22:47:38.464Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 704,
+          "title": "Creating Functions 1",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 219,
+          "position": 3,
+          "published": null,
+          "created_at": "2020-02-15T18:54:18.561Z",
+          "updated_at": "2020-02-15T18:54:18.577Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 705,
+          "title": "Creating Functions 2",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 219,
+          "position": 4,
+          "published": null,
+          "created_at": "2020-02-15T18:54:31.842Z",
+          "updated_at": "2020-02-15T18:54:31.851Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 220,
+      "module": {
+        "id": 220,
+        "created_at": "2020-01-09T22:48:04.317Z",
+        "updated_at": "2020-01-09T22:48:04.327Z",
+        "title": "Week 4 Project",
+        "completed": false,
+        "prerequisites": null,
+        "position": 7,
+        "course_id": 92,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 436,
+          "title": "Part 2 - Carpet Quotes  - Whole",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 220,
+          "position": 1,
+          "published": null,
+          "created_at": "2020-01-09T22:48:04.472Z",
+          "updated_at": "2020-02-08T20:32:14.511Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": true
+        },
+        {
+          "id": 435,
+          "title": "Part 1 - Carpet Quotes - Functions",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 220,
+          "position": 0,
+          "published": null,
+          "created_at": "2020-01-09T22:48:04.468Z",
+          "updated_at": "2020-02-08T21:15:03.877Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": true
+        },
+        {
+          "id": 669,
+          "title": " Do not use",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 220,
+          "position": 2,
+          "published": null,
+          "created_at": "2020-02-06T19:13:43.614Z",
+          "updated_at": "2020-02-08T21:14:47.472Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": true
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 221,
+      "module": {
+        "id": 221,
+        "created_at": "2020-01-09T22:48:39.522Z",
+        "updated_at": "2020-01-09T22:48:39.530Z",
+        "title": "Week 5 Exercises",
+        "completed": false,
+        "prerequisites": null,
+        "position": 8,
+        "course_id": 92,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 437,
+          "title": "Boolean Expressions Part 1",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 221,
+          "position": 0,
+          "published": null,
+          "created_at": "2020-01-09T22:48:39.689Z",
+          "updated_at": "2020-01-09T22:48:39.689Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 438,
+          "title": "Boolean Expressions Part 2",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 221,
+          "position": 4,
+          "published": null,
+          "created_at": "2020-01-09T22:48:39.692Z",
+          "updated_at": "2020-01-09T22:48:39.692Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 439,
+          "title": "Conditionals Part 1",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 221,
+          "position": 1,
+          "published": null,
+          "created_at": "2020-01-09T22:48:39.704Z",
+          "updated_at": "2020-01-09T22:48:39.704Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 440,
+          "title": "Conditionals Part 2",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 221,
+          "position": 2,
+          "published": null,
+          "created_at": "2020-01-09T22:48:39.763Z",
+          "updated_at": "2020-01-09T22:48:39.763Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 441,
+          "title": "Conditionals Part 3",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 221,
+          "position": 3,
+          "published": null,
+          "created_at": "2020-01-09T22:48:39.777Z",
+          "updated_at": "2020-01-09T22:48:39.777Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 442,
+          "title": "Conditionals Part 4",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 221,
+          "position": 5,
+          "published": null,
+          "created_at": "2020-01-09T22:48:39.781Z",
+          "updated_at": "2020-01-09T22:48:39.781Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 222,
+      "module": {
+        "id": 222,
+        "created_at": "2020-01-09T22:49:08.623Z",
+        "updated_at": "2020-01-09T22:49:08.631Z",
+        "title": "Week 5 Project",
+        "completed": false,
+        "prerequisites": null,
+        "position": 9,
+        "course_id": 92,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 443,
+          "title": "Part 0 - Roman Numerals",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 222,
+          "position": 0,
+          "published": null,
+          "created_at": "2020-01-09T22:49:08.769Z",
+          "updated_at": "2020-01-26T00:25:00.347Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": true
+        },
+        {
+          "id": 444,
+          "title": "Part 1 - Roman Numerals",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 222,
+          "position": 1,
+          "published": null,
+          "created_at": "2020-01-09T22:49:08.773Z",
+          "updated_at": "2020-01-26T00:25:08.519Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": true
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 223,
+      "module": {
+        "id": 223,
+        "created_at": "2020-01-09T22:49:42.606Z",
+        "updated_at": "2020-01-09T22:49:42.614Z",
+        "title": "Week 6 Exercises",
+        "completed": false,
+        "prerequisites": null,
+        "position": 10,
+        "course_id": 92,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 445,
+          "title": "While Loops",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 223,
+          "position": 0,
+          "published": null,
+          "created_at": "2020-01-09T22:49:42.746Z",
+          "updated_at": "2020-01-09T22:49:42.746Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 224,
+      "module": {
+        "id": 224,
+        "created_at": "2020-01-09T22:50:08.540Z",
+        "updated_at": "2020-01-09T22:50:08.549Z",
+        "title": "Week 6 Project",
+        "completed": false,
+        "prerequisites": null,
+        "position": 11,
+        "course_id": 92,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 446,
+          "title": "Dart Board",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 224,
+          "position": 0,
+          "published": null,
+          "created_at": "2020-01-09T22:50:08.696Z",
+          "updated_at": "2020-02-16T06:18:52.588Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": true
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 225,
+      "module": {
+        "id": 225,
+        "created_at": "2020-01-09T22:50:31.864Z",
+        "updated_at": "2020-01-09T22:50:31.875Z",
+        "title": "Week 7 Exercises",
+        "completed": false,
+        "prerequisites": null,
+        "position": 12,
+        "course_id": 92,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 447,
+          "title": "Strings - Formatting",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 225,
+          "position": 0,
+          "published": null,
+          "created_at": "2020-01-09T22:50:32.013Z",
+          "updated_at": "2020-01-09T22:50:32.013Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 226,
+      "module": {
+        "id": 226,
+        "created_at": "2020-01-09T22:50:48.560Z",
+        "updated_at": "2020-01-09T22:50:48.568Z",
+        "title": "Week 7 Project",
+        "completed": false,
+        "prerequisites": null,
+        "position": 13,
+        "course_id": 92,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 448,
+          "title": "Caesar Cipher",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 226,
+          "position": 0,
+          "published": null,
+          "created_at": "2020-01-09T22:50:48.706Z",
+          "updated_at": "2020-02-26T03:45:52.759Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": true
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 227,
+      "module": {
+        "id": 227,
+        "created_at": "2020-01-09T22:51:04.729Z",
+        "updated_at": "2020-01-09T22:51:04.739Z",
+        "title": "Week 9 Project",
+        "completed": false,
+        "prerequisites": null,
+        "position": 14,
+        "course_id": 92,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 449,
+          "title": "Grade Report",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 227,
+          "position": 0,
+          "published": null,
+          "created_at": "2020-01-09T22:51:04.846Z",
+          "updated_at": "2020-02-26T03:46:18.258Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": true
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 228,
+      "module": {
+        "id": 228,
+        "created_at": "2020-01-09T22:51:15.760Z",
+        "updated_at": "2020-01-09T22:51:15.768Z",
+        "title": "Week 10 Project",
+        "completed": false,
+        "prerequisites": null,
+        "position": 15,
+        "course_id": 92,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 450,
+          "title": "Breaking Caesar",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 228,
+          "position": 0,
+          "published": null,
+          "created_at": "2020-01-09T22:51:15.912Z",
+          "updated_at": "2020-02-26T03:46:25.534Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": true
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 229,
+      "module": {
+        "id": 229,
+        "created_at": "2020-01-09T22:51:33.014Z",
+        "updated_at": "2020-01-09T22:51:33.023Z",
+        "title": "Week 11 Project",
+        "completed": false,
+        "prerequisites": null,
+        "position": 16,
+        "course_id": 92,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 451,
+          "title": "Telephone Palindrome",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 229,
+          "position": 0,
+          "published": null,
+          "created_at": "2020-01-09T22:51:33.151Z",
+          "updated_at": "2020-02-26T03:46:34.135Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": true
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 230,
+      "module": {
+        "id": 230,
+        "created_at": "2020-01-09T22:51:53.692Z",
+        "updated_at": "2020-01-09T22:51:53.700Z",
+        "title": "Week 12 Project",
+        "completed": false,
+        "prerequisites": null,
+        "position": 17,
+        "course_id": 92,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 452,
+          "title": "Movie Manager",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 230,
+          "position": 0,
+          "published": null,
+          "created_at": "2020-01-09T22:51:53.916Z",
+          "updated_at": "2020-02-26T03:46:41.426Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": true
+        }
+      ],
+      "projects": []
+    }
+  ],
+  "completion_map": [
+    {
+      "id": 213,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 416,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 214,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 417,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 215,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 418,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 419,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 420,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 421,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 422,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 423,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 424,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 216,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 425,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 217,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 426,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 427,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 428,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 429,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 430,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 218,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 431,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 219,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 432,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 433,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 434,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 704,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 705,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 220,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 436,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 435,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 669,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 221,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 437,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 438,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 439,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 440,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 441,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 442,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 222,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 443,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 444,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 223,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 445,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 224,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 446,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 225,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 447,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 226,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 448,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 227,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 449,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 228,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 450,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 229,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 451,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 230,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 452,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    }
+  ],
+  "old_projects": []
+}

@@ -22,7 +22,7 @@ function getMatrix() {
                     studObj = studs[name][wndx];
                     var modID = studObj.id;
                     var modName = getModuleName(modID);
-                    if (modName.indexOf("Project") > -1) {
+                    //if (modName.indexOf("Project") > -1) {
                         lessons = studObj.lessons;
                         for (var lndx in lessons) {
                             var lesson = lessons[lndx];
@@ -38,7 +38,7 @@ function getMatrix() {
                             if (lesson.completed) tdID.addClass("completed");
                             tr.append(tdID);
                         }
-                    }
+                    //}
                 }
 
                 tbl.append(tr);
