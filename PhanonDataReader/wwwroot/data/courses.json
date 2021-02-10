@@ -1,0 +1,47 @@
+[
+	{
+		"id": 92,
+		"name": "CS/INFO 1181 - Spring 2020 - Holmes - ISU",
+		"oauth_key": null,
+		"oauth_secret": null,
+		"open_date": "2020-01-07T07:00:00.000Z",
+		"close_date": "2020-10-18T06:00:00.000Z",
+		"owner_id": 1238,
+		"updated_by": null,
+		"created_at": "2020-01-07T23:04:55.221Z",
+		"updated_at": "2020-09-17T17:21:25.850Z",
+		"code": "holmes-1181-spring2020",
+		"lms_course_id": null,
+		"lock_progress": false
+	},
+	{
+		"id": 115,
+		"name": "CS 1181 Template Course",
+		"oauth_key": null,
+		"oauth_secret": null,
+		"open_date": null,
+		"close_date": null,
+		"owner_id": 1238,
+		"updated_by": null,
+		"created_at": "2020-05-19T14:24:47.387Z",
+		"updated_at": "2020-05-19T14:24:47.395Z",
+		"code": "37cac15fd916248cf03be2f6f032eff5d2e671e62044748da3b55e0789f2846a",
+		"lms_course_id": null,
+		"lock_progress": false
+	},
+	{
+		"id": 119,
+		"name": "CS / INFO 1181 Fall 2020",
+		"oauth_key": null,
+		"oauth_secret": null,
+		"open_date": "2020-08-17T06:00:00.000Z",
+		"close_date": "2020-12-04T07:00:00.000Z",
+		"owner_id": 1238,
+		"updated_by": null,
+		"created_at": "2020-08-06T17:07:10.597Z",
+		"updated_at": "2020-08-06T17:07:10.615Z",
+		"code": "holmes-1181-fall2020",
+		"lms_course_id": null,
+		"lock_progress": true
+	}
+]

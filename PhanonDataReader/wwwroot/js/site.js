@@ -6,40 +6,94 @@
 $(document).ready(function () {
     $("#btnRead").click(getMatrix);
     $("#btnReadExercises").click(parseExercises);
+    $("#txtFilter").keyup(filterTable);
 });
 
 function getMatrix() {
+    var tbl = $("#tblOutput");
+    tbl.empty();
+    var courseId = $("#txtCourseID").val();
+    var showAverages = $("#chkAverages").is(":checked");
     $.ajax({
-        url: "../data/students.json"
+        // this file needs contain all exercises from the Progress Map Page
+        url: "../data/exercises.json"
         , success: function (data) {
-            var tbl = $("#tblOutput");
             var studs = data.progress_map;
-            for (var name in studs) {
+            var studsSorted = sorted(studs);
+            for (var name in studsSorted) {
                 var tr = $("<tr>");
                 var tdName = $("<td>").text(name);
                 tr.append(tdName);
-                for (var wndx in studs[name]) {
-                    studObj = studs[name][wndx];
-                    var modID = studObj.id;
+
+                var complCount = 0;
+                var lessCount = 0;
+                var week;
+                for (var mod of studs[name]) {
+                    var modID = mod.id;
                     var modName = getModuleName(modID);
-                    //if (modName.indexOf("Project") > -1) {
-                        lessons = studObj.lessons;
-                        for (var lndx in lessons) {
-                            var lesson = lessons[lndx];
+                    //if (modName.indexOf("Project") > -1) { // pRojects
+                    //    lessons = studObj.lessons;
+                    //    for (var lndx in lessons) {
+                    //        var lesson = lessons[lndx];
+                    //        var lessName = getLessonName(lesson.id);
+                    //        var content = $("<span>").text(modName);
+                    //        var link = $("<a>");
+                    //        link.text(lessName);
+                    //        link.attr("href", makeLink(courseId, lesson.id, lesson.user_id));
+                    //        link.attr("target", "_blank");
+                    //        var tdID = $("<td>").append(content, link);
+                    //        tdID.addClass("project");
+                    //        if (!lesson.started) tdID.addClass("notstarted");
+                    //        if (lesson.completed) tdID.addClass("completed");
+                    //        tr.append(tdID);
+                    //    }
+                    //}
+
+                    
+                    lessons = mod.lessons;
+                    if (showAverages) {
+                        var modTD = $("<td>");
+                        var completedLessons = 0;
+                        var moduleCompleted = true;
+                        for (var lesson of lessons) {
+                            moduleCompleted = lesson.completed && true;
+                            if (lesson.completed) {
+                                completedLessons++;
+                                complCount++;
+                            }
+                        }
+                        if (moduleCompleted) {
+                            modTD.addClass("completed");
+                        }
+                        var average = completedLessons / lessons.length;
+                        var perc = average * 10
+                        var perSpan = $("<p>").text(perc.toFixed(2))
+                        modTD.append($("<span>").text(modName));
+                        modTD.append(perSpan);
+                        tr.append(modTD);
+                    } else {
+                        for (var lesson of lessons) {
                             var lessName = getLessonName(lesson.id);
                             var content = $("<span>").text(modName);
                             var link = $("<a>");
                             link.text(lessName);
-                            link.attr("href", makeLink(92, lesson.id, lesson.user_id));
+                            link.attr("href", makeLink(courseId, lesson.id, lesson.user_id));
                             link.attr("target", "_blank");
                             var tdID = $("<td>").append(content, link);
                             tdID.addClass("project");
                             if (!lesson.started) tdID.addClass("notstarted");
-                            if (lesson.completed) tdID.addClass("completed");
+                            if (lesson.completed) {
+                                tdID.addClass("completed");
+                                complCount++;
+                            }
                             tr.append(tdID);
                         }
-                    //}
+                    }
+                    lessCount += lessons.length;
+                    
                 }
+                var completed = $("<span>").text(complCount +"/"+ lessCount)
+                tdName.append(completed);
 
                 tbl.append(tr);
             }
@@ -97,5 +151,42 @@ function parseExercises() {
             }
         }
     });
+
+}
+
+function sorted(obj) {
+    var arr = [];
+    var nmArr = [];
+    var div = $("#divOutput");
+    for (var nm in obj) {
+        nmArr.push(nm);
+    }
+    nmArr.sort();
+    for (var nm of nmArr) {
+        arr[nm] = obj[nm];
+    }
+    return arr;
+}
+
+
+
+
+function filterTable(evt) {
+    var tbl = $("#tblOutput");
+    var searchText = $("#txtFilter").val();
+    for (row of tbl.children()) {
+        if (searchText !== "") {
+            var studName = row.cells[0].innerText;
+            var sNameLower = studName.toLowerCase();
+            var searcher = searchText.toLowerCase();
+            if (sNameLower.indexOf(searcher) > -1) {
+                $(row).removeClass("hidden");
+            } else {
+                $(row).addClass("hidden");
+            }
+        } else {
+            $(row).removeClass("hidden");
+        }
+    }
 
 }
