@@ -1,0 +1,1300 @@
+{
+  "phanon_modules": [
+    {
+      "id": 702,
+      "module": {
+        "id": 702,
+        "created_at": "2021-08-11T17:11:24.299Z",
+        "updated_at": "2021-08-11T17:11:24.299Z",
+        "title": "Week 1 Exercises",
+        "completed": false,
+        "prerequisites": null,
+        "position": 0,
+        "course_id": 232,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 1968,
+          "title": "Concatinating and Formatting",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 702,
+          "position": 1,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.650Z",
+          "updated_at": "2021-08-11T17:11:24.650Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1969,
+          "title": "Printing to the Screen",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 702,
+          "position": 0,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.651Z",
+          "updated_at": "2021-08-11T17:11:24.651Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 709,
+      "module": {
+        "id": 709,
+        "created_at": "2021-08-11T17:11:24.406Z",
+        "updated_at": "2021-08-11T17:11:24.406Z",
+        "title": "Week 2 Exercises",
+        "completed": false,
+        "prerequisites": null,
+        "position": 1,
+        "course_id": 232,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 1986,
+          "title": "Variables - Part 2",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 709,
+          "position": 1,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.969Z",
+          "updated_at": "2021-08-11T17:11:24.969Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1987,
+          "title": "Variable Types - Convert Between int and str",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 709,
+          "position": 6,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.970Z",
+          "updated_at": "2021-08-11T17:11:24.970Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1988,
+          "title": "Arithmetic Operators Precedence - Part 2",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 709,
+          "position": 3,
+          "published": null,
+          "created_at": "2021-08-11T17:11:25.029Z",
+          "updated_at": "2021-08-11T17:11:25.029Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1989,
+          "title": "String Concatenation Review",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 709,
+          "position": 5,
+          "published": null,
+          "created_at": "2021-08-11T17:11:25.046Z",
+          "updated_at": "2021-08-11T17:11:25.046Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1990,
+          "title": "Arithmetic Operators Precedence - Part 3",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 709,
+          "position": 4,
+          "published": null,
+          "created_at": "2021-08-11T17:11:25.047Z",
+          "updated_at": "2021-08-11T17:11:25.047Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1991,
+          "title": "Variables - Part 1",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 709,
+          "position": 0,
+          "published": null,
+          "created_at": "2021-08-11T17:11:25.062Z",
+          "updated_at": "2021-08-11T17:11:25.062Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1992,
+          "title": "Arithmetic Operators Precedence - Part 1",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 709,
+          "position": 2,
+          "published": null,
+          "created_at": "2021-08-11T17:11:25.074Z",
+          "updated_at": "2021-08-11T17:11:25.074Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 706,
+      "module": {
+        "id": 706,
+        "created_at": "2021-08-11T17:11:24.328Z",
+        "updated_at": "2021-08-11T17:11:24.328Z",
+        "title": "Week 3 Exercises",
+        "completed": false,
+        "prerequisites": null,
+        "position": 2,
+        "course_id": 232,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 1977,
+          "title": "Range",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 706,
+          "position": 1,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.833Z",
+          "updated_at": "2021-08-11T17:11:24.833Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1978,
+          "title": "For Loops Part 1",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 706,
+          "position": 2,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.834Z",
+          "updated_at": "2021-08-11T17:11:24.834Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1979,
+          "title": "For Loops Part 2",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 706,
+          "position": 3,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.835Z",
+          "updated_at": "2021-08-11T17:11:24.835Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1980,
+          "title": "For Loops Part 3 - Nested Loops!",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 706,
+          "position": 4,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.863Z",
+          "updated_at": "2021-08-11T17:11:24.863Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1981,
+          "title": "Turtle!",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 706,
+          "position": 0,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.863Z",
+          "updated_at": "2021-08-11T17:11:24.863Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 701,
+      "module": {
+        "id": 701,
+        "created_at": "2021-08-11T17:11:24.289Z",
+        "updated_at": "2021-08-11T17:11:24.289Z",
+        "title": "Week 4 Exercises",
+        "completed": false,
+        "prerequisites": null,
+        "position": 3,
+        "course_id": 232,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 1959,
+          "title": "Creating Functions",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 701,
+          "position": 3,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.514Z",
+          "updated_at": "2021-08-11T17:11:24.514Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1961,
+          "title": "Random Numbers",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 701,
+          "position": 2,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.523Z",
+          "updated_at": "2021-08-11T17:11:24.523Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1962,
+          "title": "Useful Functions - abs, min, max, pow, and round",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 701,
+          "position": 0,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.544Z",
+          "updated_at": "2021-08-11T17:11:24.544Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1963,
+          "title": "Useful Functions - fabs, ceil, and floor",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 701,
+          "position": 1,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.546Z",
+          "updated_at": "2021-08-11T17:11:24.546Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1964,
+          "title": "Function Parameters",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 701,
+          "position": 4,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.607Z",
+          "updated_at": "2021-08-11T17:11:24.607Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 707,
+      "module": {
+        "id": 707,
+        "created_at": "2021-08-11T17:11:24.389Z",
+        "updated_at": "2021-08-11T17:11:24.389Z",
+        "title": "Week 5 Exercises",
+        "completed": false,
+        "prerequisites": null,
+        "position": 4,
+        "course_id": 232,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 1982,
+          "title": "Composite Functions",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 707,
+          "position": 2,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.924Z",
+          "updated_at": "2021-08-11T17:11:24.924Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1983,
+          "title": "D-R-Y Code",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 707,
+          "position": 1,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.940Z",
+          "updated_at": "2021-08-11T17:11:24.940Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1984,
+          "title": "Optional Parameters",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 707,
+          "position": 3,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.940Z",
+          "updated_at": "2021-08-11T17:11:24.940Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1985,
+          "title": "Encapsulation",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 707,
+          "position": 0,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.943Z",
+          "updated_at": "2021-08-11T17:11:24.943Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 708,
+      "module": {
+        "id": 708,
+        "created_at": "2021-08-11T17:11:24.404Z",
+        "updated_at": "2021-08-11T17:11:24.404Z",
+        "title": "Week 6 Exercises",
+        "completed": false,
+        "prerequisites": null,
+        "position": 5,
+        "course_id": 232,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 1993,
+          "title": "Boolean Expressions Part 1",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 708,
+          "position": 0,
+          "published": null,
+          "created_at": "2021-08-11T17:11:25.077Z",
+          "updated_at": "2021-08-11T17:11:25.077Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1994,
+          "title": "Conditionals Part 1",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 708,
+          "position": 1,
+          "published": null,
+          "created_at": "2021-08-11T17:11:25.136Z",
+          "updated_at": "2021-08-11T17:11:25.136Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1995,
+          "title": "Boolean Expressions Part 2",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 708,
+          "position": 4,
+          "published": null,
+          "created_at": "2021-08-11T17:11:25.152Z",
+          "updated_at": "2021-08-11T17:11:25.152Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1996,
+          "title": "Conditionals Part 4",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 708,
+          "position": 5,
+          "published": null,
+          "created_at": "2021-08-11T17:11:25.157Z",
+          "updated_at": "2021-08-11T17:11:25.157Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1997,
+          "title": "Conditionals Part 2",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 708,
+          "position": 2,
+          "published": null,
+          "created_at": "2021-08-11T17:11:25.167Z",
+          "updated_at": "2021-08-11T17:11:25.167Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1998,
+          "title": "Conditionals Part 3",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 708,
+          "position": 3,
+          "published": null,
+          "created_at": "2021-08-11T17:11:25.168Z",
+          "updated_at": "2021-08-11T17:11:25.168Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 703,
+      "module": {
+        "id": 703,
+        "created_at": "2021-08-11T17:11:24.300Z",
+        "updated_at": "2021-08-11T17:11:24.300Z",
+        "title": "Week 7 Exercises",
+        "completed": false,
+        "prerequisites": null,
+        "position": 6,
+        "course_id": 232,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 1970,
+          "title": "While Loops (Set 2)",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 703,
+          "position": 1,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.710Z",
+          "updated_at": "2021-08-11T17:11:24.710Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1971,
+          "title": "Sentinel Loops",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 703,
+          "position": 3,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.724Z",
+          "updated_at": "2021-08-11T17:11:24.724Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1972,
+          "title": "While Loops (Set 1)",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 703,
+          "position": 0,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.728Z",
+          "updated_at": "2021-08-11T17:11:24.728Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1973,
+          "title": "While Stepping",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 703,
+          "position": 2,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.730Z",
+          "updated_at": "2021-08-11T17:11:24.730Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 700,
+      "module": {
+        "id": 700,
+        "created_at": "2021-08-11T17:11:24.221Z",
+        "updated_at": "2021-08-11T17:11:24.221Z",
+        "title": "Week 9 Exercises",
+        "completed": false,
+        "prerequisites": null,
+        "position": 7,
+        "course_id": 232,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 1956,
+          "title": "String Methods",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 700,
+          "position": 2,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.434Z",
+          "updated_at": "2021-08-11T17:11:24.434Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1957,
+          "title": "String Operators",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 700,
+          "position": 0,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.446Z",
+          "updated_at": "2021-08-11T17:11:24.446Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1958,
+          "title": "String Indicies",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 700,
+          "position": 1,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.499Z",
+          "updated_at": "2021-08-11T17:11:24.499Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1960,
+          "title": "String Interation",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 700,
+          "position": 3,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.515Z",
+          "updated_at": "2021-08-11T17:11:24.515Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 710,
+      "module": {
+        "id": 710,
+        "created_at": "2021-08-11T17:11:24.408Z",
+        "updated_at": "2021-08-11T17:11:24.408Z",
+        "title": "Week 10 Exercises",
+        "completed": false,
+        "prerequisites": null,
+        "position": 8,
+        "course_id": 232,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 1999,
+          "title": "2D List Iteration",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 710,
+          "position": 4,
+          "published": null,
+          "created_at": "2021-08-11T17:11:25.184Z",
+          "updated_at": "2021-08-11T17:11:25.184Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 2000,
+          "title": "Tuples",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 710,
+          "position": 5,
+          "published": null,
+          "created_at": "2021-08-11T17:11:25.246Z",
+          "updated_at": "2021-08-11T17:11:25.246Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 2001,
+          "title": "List Elements",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 710,
+          "position": 1,
+          "published": null,
+          "created_at": "2021-08-11T17:11:25.261Z",
+          "updated_at": "2021-08-11T17:11:25.261Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 2002,
+          "title": "List Iteration",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 710,
+          "position": 3,
+          "published": null,
+          "created_at": "2021-08-11T17:11:25.268Z",
+          "updated_at": "2021-08-11T17:11:25.268Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 2003,
+          "title": "Lists and Appending",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 710,
+          "position": 0,
+          "published": null,
+          "created_at": "2021-08-11T17:11:25.277Z",
+          "updated_at": "2021-08-11T17:11:25.277Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 2004,
+          "title": "List Modification",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 710,
+          "position": 2,
+          "published": null,
+          "created_at": "2021-08-11T17:11:25.278Z",
+          "updated_at": "2021-08-11T17:11:25.278Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 705,
+      "module": {
+        "id": 705,
+        "created_at": "2021-08-11T17:11:24.327Z",
+        "updated_at": "2021-08-11T17:11:24.327Z",
+        "title": "Week 11 Exercises",
+        "completed": false,
+        "prerequisites": null,
+        "position": 9,
+        "course_id": 232,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 1974,
+          "title": "Try Except",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 705,
+          "position": 2,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.755Z",
+          "updated_at": "2021-08-11T17:11:24.755Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1975,
+          "title": "Splitting to Lists",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 705,
+          "position": 0,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.755Z",
+          "updated_at": "2021-08-11T17:11:24.755Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1976,
+          "title": "Splitting to 2D Lists",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 705,
+          "position": 1,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.815Z",
+          "updated_at": "2021-08-11T17:11:24.815Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 704,
+      "module": {
+        "id": 704,
+        "created_at": "2021-08-11T17:11:24.310Z",
+        "updated_at": "2021-08-11T17:11:24.310Z",
+        "title": "Week 12 Exercises",
+        "completed": false,
+        "prerequisites": null,
+        "position": 10,
+        "course_id": 232,
+        "completed_at": null
+      },
+      "lessons": [
+        {
+          "id": 1965,
+          "title": "Object Methods",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 704,
+          "position": 2,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.619Z",
+          "updated_at": "2021-08-11T17:11:24.619Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1966,
+          "title": "Object Instantiation",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 704,
+          "position": 1,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.620Z",
+          "updated_at": "2021-08-11T17:11:24.620Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        },
+        {
+          "id": 1967,
+          "title": "Objects Introduction",
+          "prerequisites": null,
+          "course_id": null,
+          "phanon_module_id": 704,
+          "position": 0,
+          "published": null,
+          "created_at": "2021-08-11T17:11:24.621Z",
+          "updated_at": "2021-08-11T17:11:24.621Z",
+          "open_date": null,
+          "close_date": null,
+          "due_date": null,
+          "permit_paste": false
+        }
+      ],
+      "projects": []
+    }
+  ],
+  "completion_map": [
+    {
+      "id": 702,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 1968,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1969,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 709,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 1986,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1987,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1988,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1989,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1990,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1991,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1992,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 706,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 1977,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1978,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1979,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1980,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1981,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 701,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 1959,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1961,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1962,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1963,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1964,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 707,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 1982,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1983,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1984,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1985,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 708,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 1993,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1994,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1995,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1996,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1997,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1998,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 703,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 1970,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1971,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1972,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1973,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 700,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 1956,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1957,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1958,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1960,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 710,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 1999,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 2000,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 2001,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 2002,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 2003,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 2004,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 705,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 1974,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1975,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1976,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    },
+    {
+      "id": 704,
+      "completed": false,
+      "lessons": [
+        {
+          "id": 1965,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1966,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        },
+        {
+          "id": 1967,
+          "user_id": 1238,
+          "completed": false,
+          "started": false
+        }
+      ],
+      "projects": []
+    }
+  ],
+  "old_projects": []
+}
