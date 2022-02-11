@@ -16,7 +16,7 @@ function getMatrix() {
     var showAverages = $("#chkAverages").is(":checked");
     $.ajax({
         // this file needs contain all exercises from the Progress Map Page
-        url: "../data/exercises.json"
+        url: "../data/students.json"
         , success: function (data) {
             var studs = data.progress_map;
             var studsSorted = sorted(studs);
