@@ -17509,25 +17509,25 @@
 			},
 			{
 				"id": 795,
-				"completed": false,
+				"completed": true,
 				"lessons": [
 					{
 						"id": 2410,
 						"user_id": 4923,
-						"completed": false,
-						"started": false
+						"completed": true,
+						"started": true
 					},
 					{
 						"id": 2411,
 						"user_id": 4923,
-						"completed": false,
-						"started": false
+						"completed": true,
+						"started": true
 					},
 					{
 						"id": 2412,
 						"user_id": 4923,
-						"completed": false,
-						"started": false
+						"completed": true,
+						"started": true
 					}
 				],
 				"projects": []
