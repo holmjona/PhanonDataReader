@@ -89,6 +89,10 @@ td.completed {
     background: #CFC;
 }
 
+    td.partial {
+        background: #FDA;
+    }
+
 .parser {
     text-align: right;
     height: 70%;

@@ -67,6 +67,9 @@ function getMatrix() {
                         }
                         var average = completedLessons / lessons.length;
                         var perc = average * 10
+                        if (average > 0 && average < 1) {
+                            modTD.addClass("partial");
+                        }
                         var perSpan = $("<p>").text(perc.toFixed(2))
                         modTD.append($("<span>").text(modName));
                         modTD.append(perSpan);
